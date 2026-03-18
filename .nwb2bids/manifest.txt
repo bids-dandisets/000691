@@ -1,0 +1,8 @@
+dandiset.yaml
+dataset_description.json
+participants.tsv
+participants.json
+derivatives/dataset_description.json
+sub-4mm-mouse-1/sub-4mm-mouse-1_sessions.tsv
+sub-4mm-mouse-1/sub-4mm-mouse-1_sessions.json
+sub-4mm-mouse-1/ses-2021-07-26T13-50-50/ecephys/sub-4mm-mouse-1_ses-2021-07-26T13-50-50_ecephys.nwb
