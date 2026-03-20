@@ -1,2 +1,2 @@
-participant_id	species	sex
-sub-4mm+mouse+1	Mus musculus	M
+participant_id	original_participant_id	species	sex
+sub-4mm+mouse+1	sub-4mm-mouse-1	Mus musculus	M
